@@ -119,6 +119,23 @@
 
 
 /* Before After Container */
+body{
+background-color: #003366;
+            color: #FFFFFF;
+}
+
+a {
+    color: #66CCFF;
+}
+
+.highlight {
+    background-color: #808000;
+}
+
+.section {
+    background-color: #996633;
+}
+
 p {
     margin-top: 5px;
     margin-bottom: 5px;
