@@ -94,7 +94,7 @@ section img {
 
 @media all and (min-width: 768px) and (max-width: 959px) {
     .mainSection {
-        display: flex;
+        display: none;
         flex-direction: column;
         flex-wrap: nowrap;
         justify-content: space-around;
